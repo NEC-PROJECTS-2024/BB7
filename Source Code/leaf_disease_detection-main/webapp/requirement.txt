@@ -1,0 +1,13 @@
+Flask==3.0.0
+gunicorn==20.0.4
+Flask-Cors==4.0.0
+Werkzeug==3.0.1
+itsdangerous==2.1.2
+Jinja2==3.1.3
+MarkupSafe==2.1.4
+tensorflow==2.16.0rc0  # or a version compatible with your model
+h5py==3.10.0  # For handling .h5 files, if necessary
+scikit-learn==1.4.0  # If your app uses scikit-learn for preprocessing or other tasks
+numpy==1.26.3  # Often needed for numerical operations, likely a dependency for TensorFlow and scikit-learn
+pandas
+matplotlib
