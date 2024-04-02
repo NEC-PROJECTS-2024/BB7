@@ -25,7 +25,11 @@ The results show that our model consumed shorter time yet offered better recogni
 including CNN, support vector machine (SVM), and region-based fully convolutional network (R-FCN) AlexNet.
 
 DataSet:
+
+
 https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset
 
 Deploment link:
+
+
 http://44.201.216.31:8000/
