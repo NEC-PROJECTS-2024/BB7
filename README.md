@@ -7,7 +7,10 @@ Team Details:
 Chakrakoti Harish
 Marri Gopal Krishna
 Shaik Mulla Sadik
+
+
 Introduction:
+
 The automatic recognition of plant leaf diseases is essential to agriculture, helping in early detection, management, and treatment of diseases, 
 thereby enhancing crop yield and farming efficiency. Currently, convolutional neural network (CNN) is the most popular deep learning algorithm in plant disease detection. 
 However, CNN cannot capture the fine details of leaf textures, colors, and patterns, nor accurately recognize leaf diseases from different perspectives. 
