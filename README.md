@@ -5,7 +5,9 @@ Plant Leaf Disease Detection using CNN
 Team Details:
 
 Chakrakoti Harish
+
 Marri Gopal Krishna
+
 Shaik Mulla Sadik
 
 
